@@ -28,7 +28,7 @@
 ##  Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,matplotlib,sklearn,mysql,flask,html,css,github" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mysql,flask,html,css,github" />
 </p>
 
 <p align="center">
